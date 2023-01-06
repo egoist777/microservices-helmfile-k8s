@@ -1,0 +1,6 @@
+##Usage
+
+1. brew install helmfile (for MacOS)
+2. helmfile sync  (to install charts)
+3. helmfile destroy (tol delete charts)
+
